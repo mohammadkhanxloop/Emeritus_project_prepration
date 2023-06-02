@@ -18,6 +18,4 @@ def submit():
 
 if __name__ == '__main__':
     flaskdemo.run(debug=True)
-
-
-
+    
